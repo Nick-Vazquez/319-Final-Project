@@ -27,6 +27,13 @@ Users will enter a location and select which satelites to track within the appli
 
 ---
 
+### Tech Stack
+- **Backend:** Express
+- **Web Framework:** React
+- **APIs:** Listed below
+
+---
+
 ### External Resources
 [JSON Satelite API](https://celestrak.org/NORAD/elements/index.php?FORMAT=json) \
 [TLE API](https://tle.ivanstanojevic.me/#/) \
